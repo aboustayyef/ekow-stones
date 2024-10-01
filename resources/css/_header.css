@@ -2,11 +2,11 @@ section{
     @apply py-8
 }
 section > div{
-    @apply w-full max-w-6xl mx-auto
+    @apply w-full max-w-6xl mx-auto px-4 xl:px-0
 }
 #desktopMenu li{
-    @apply text-lg uppercase
+    @apply text-lg uppercase font-semibold
 }
 #desktopMenu li a{
-    @apply block p-2 hover:bg-gray-50
+    @apply block p-2 hover:bg-gray-50 text-primary-700
 }
