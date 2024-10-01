@@ -1,12 +1,12 @@
-section{
+section, nav{
     @apply py-8
 }
-section > div{
+section, nav > div{
     @apply w-full max-w-6xl mx-auto px-4 xl:px-0
 }
-#desktopMenu li{
+#menu li{
     @apply text-lg uppercase font-semibold
 }
-#desktopMenu li a{
+#menu li a{
     @apply block p-2 hover:bg-gray-50 text-primary-700
 }
