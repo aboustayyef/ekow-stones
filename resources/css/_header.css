@@ -8,5 +8,5 @@ section, nav > div{
     @apply text-lg uppercase font-semibold
 }
 #menu li a{
-    @apply block p-2 hover:bg-gray-50 text-primary-700
+    @apply block p-2 lg:hover:bg-gray-50 text-primary-700
 }
