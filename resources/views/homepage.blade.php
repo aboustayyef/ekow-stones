@@ -9,4 +9,5 @@
       <x-headline />
       <x-hero />
    </x-slot>
+
 </x-layout>
