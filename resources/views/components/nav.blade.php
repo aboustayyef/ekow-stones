@@ -1,5 +1,5 @@
 <nav>
-   <div class="block lg:flex items-center justify-between">
+   <div class="block text-right lg:flex items-center justify-between">
       <div class="flex justify-between">
          <x-ui.logo width="180" height="55" />
          <div>
