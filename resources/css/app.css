@@ -2,5 +2,5 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
-@import "./_header.css"
+@import "./_custom.css"
 

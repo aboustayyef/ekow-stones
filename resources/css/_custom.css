@@ -1,0 +1,24 @@
+section,
+nav {
+    @apply py-8;
+}
+section > div,
+nav > div {
+    @apply w-full max-w-6xl mx-auto px-4 xl:px-0;
+}
+#menu li {
+    @apply text-lg uppercase font-semibold;
+}
+#menu li a {
+    @apply block p-2 lg:hover:bg-gray-50 text-primary-700;
+}
+
+.featureList h3 {
+    @apply text-primary-600 font-bold text-lg;
+}
+.featureList p {
+    @apply max-w-prose text-lg mt-4 text-gray-400;
+}
+p + h3 {
+    @apply mt-4
+}

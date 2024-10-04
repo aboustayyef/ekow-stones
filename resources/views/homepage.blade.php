@@ -8,6 +8,7 @@
       <x-nav />
       <x-headline />
       <x-hero />
+      <x-features/>
    </x-slot>
 
 </x-layout>
