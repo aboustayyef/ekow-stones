@@ -9,6 +9,7 @@
       <x-headline />
       <x-hero />
       <x-features/>
+      <x-our-work/>
    </x-slot>
 
 </x-layout>
