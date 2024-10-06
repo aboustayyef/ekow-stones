@@ -9,13 +9,13 @@
             <li class="selected"><a href="">Countertops</a></li>
             <li><a href="">Walls</a></li>
             <li><a href="">Granite</a></li>
-            <li><a href="">Cermaic</a></li>
+            <li><a href="">Ceramic</a></li>
             <li><a href="">Porcelain</a></li>
         </ul>
     </div>
 </section>
 <section>
     <div>
-        <div class="mt-4 w-full aspect-video bg-cover bg-center bg-no-repeat" style="background-image: url('/storage/img/unsplash-kitchen-homepage.jpg');"></div>
+        <div id="visible-slide" class="mt-4 w-full aspect-video bg-cover bg-center bg-no-repeat bg-primary-50" style="background-image: url('/storage/img/unsplash-kitchen-homepage.jpg');"></div>
     </div>
 </section>
