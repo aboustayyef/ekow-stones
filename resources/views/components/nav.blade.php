@@ -9,7 +9,7 @@
       </div>
       <ul id="menu" class="hidden p-4 lg:p-0 bg-primary-100 lg:bg-inherit lg:flex lg:space-x-4 mt-8 lg:mt-0">
          <li><a href="#">About</a></li>
-         <li><a href="#">Services</a></li>
+         <li><a href="#ourWorkSection" class="seeOurWork">Our Work</a></li>
          <li><a href="#">Contact Us</a></li>
       </ul>
 

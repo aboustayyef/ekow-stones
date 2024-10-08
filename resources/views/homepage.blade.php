@@ -10,6 +10,8 @@
       <x-hero />
       <x-features/>
       <x-our-work/>
+      <x-testimonial/>
+      <x-footer/>
    </x-slot>
 
 </x-layout>

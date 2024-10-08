@@ -1,6 +1,9 @@
-<section class="mt-4">
+<section class="mt-4" id="ourWorkSection">
     <div>
         <h2 class="text-3xl lg:text-5xl text-primary-600 font-bold">Our Work</h2>
+        <a href="#" class="backToTop">
+            &#10514; Back to Top
+        </a>
     </div>
 </section>
 <section class="py-0 border-b border-gray-400 ">
