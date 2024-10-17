@@ -1,4 +1,4 @@
-<section class="bg-primary-100 mt-16">
+<section id="contactUsSection" class="bg-primary-100 mt-16 min-h-[50vh] flex flex-col justify-center">
     <div class="py-12 lg:flex">
         <div class="lg:w-1/2 pr-12">
             <h2 class="text-3xl lg:text-5xl text-primary-600 font-bold">Get in Touch</h2>
