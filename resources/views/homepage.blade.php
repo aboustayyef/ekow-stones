@@ -9,8 +9,9 @@
       <x-headline />
       <x-hero />
       <x-features/>
+      <x-about-us/>
       <x-our-work/>
-      <x-testimonial/>
+      <x-contact/>
       <x-footer/>
    </x-slot>
 

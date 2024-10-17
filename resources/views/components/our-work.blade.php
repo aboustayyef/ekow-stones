@@ -1,11 +1,11 @@
 <section class="mt-4" id="ourWorkSection">
-    <div class="flex justify-between">
+    <div class="flex justify-between items-center">
         <div>
             <h2 class="text-3xl lg:text-5xl text-primary-600 font-bold">Our Work</h2>
             <p class="mt-2 text-stone-400 text-xl">Explore a selection of projects we’ve delivered for our clients</p>
         </div>
-        <a href="#" class="backToTop class text-primary-300 hover:text-primary-500">
-            &#10514; Back to Top
+        <a href="#" class="block px-2 py-1 border-2 border-primary-100 ml-4 lg:ml-0 rounded-md backToTop class text-primary-300 hover:text-primary-500 hover:border-primary-500">
+            &#10514; <span class="hidden lg:inline">Back to Top</span>
         </a>
     </div>
 </section>

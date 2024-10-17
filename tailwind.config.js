@@ -2,6 +2,7 @@
 import defaultTheme from "tailwindcss/defaultTheme";
 
 export default {
+    mode: 'jit',  // Ensure JIT mode is enabled
     content: [
         "./resources/**/*.blade.php",
         "./resources/**/*.js",
