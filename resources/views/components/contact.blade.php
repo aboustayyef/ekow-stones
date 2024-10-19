@@ -1,9 +1,9 @@
-<section id="contactUsSection" class="bg-primary-100 mt-16 min-h-[50vh] flex flex-col justify-center">
+<section id="contactUsSection" class="bg-primary-100 mt-16 py-12 stone-background">
+    <div class="flex w-full flex-row-reverse"><x-ui.back-to-top class="inline-block"/></div>
     <div class="py-12 lg:flex">
         <div class="lg:w-1/2 pr-12">
-            <h2 class="text-3xl lg:text-5xl text-primary-600 font-bold">Get in Touch</h2>
+            <h2 class="text-3xl lg:text-5xl text-primary-600 font-bold">Contact Us</h2>
             <p class="text-lg my-4" >For enquiries, questions or project estimates, don't hesitate to contact us using the following methods</p>
-
         </div>
         <div>
             <div class="mt-6 flex items-center">
