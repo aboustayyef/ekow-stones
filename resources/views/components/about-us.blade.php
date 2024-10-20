@@ -1,4 +1,4 @@
-<section id="aboutUsSection" class="stone-background bg-primary-100 my-12 min-h-[50vh] flex flex-col justify-center">
+<section id="aboutUsSection" class="stone-background bg-primary-100 my-4 lg:my-12 min-h-[50vh] flex flex-col justify-center">
     <div>
         <div class="py-12 pr-4 flex-shrink-0">
             <div class="w-full flex justify-between items-center">

@@ -17,7 +17,7 @@ nav > div {
     @apply text-primary-600 font-bold text-lg;
 }
 .featureList p {
-    @apply max-w-prose text-lg mt-4 text-stone-400;
+    @apply max-w-prose text-lg mt-2 lg:mt-4 text-stone-400;
 }
 p + h3 {
     @apply mt-4
