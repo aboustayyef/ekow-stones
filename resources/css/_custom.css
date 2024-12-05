@@ -30,8 +30,15 @@ p + h3 {
 #ourWork li.selected a{
     @apply font-semibold text-primary-500 border-b-2 border-b-primary-500 hover:border-b-2 hover:border-b-primary-500;
     transition: border-bottom 0.3s ease-in-out;
-
 }
+
+.image-btn{
+    @apply  cursor-pointer px-3 py-1 rounded;
+}
+.image-btn.selected{
+    @apply bg-primary-500 text-white cursor-default;
+}
+/* Misc */
 
 .stone-background{
     background-color: #dfecdf;
