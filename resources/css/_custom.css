@@ -28,7 +28,9 @@ p + h3 {
     @apply block pt-2 pb-6 text-xl lg:text-2xl text-stone-500 hover:border-b-2 hover:border-b-primary-400
 }
 #ourWork li.selected a{
-    @apply font-semibold text-primary-500 border-b-2 border-b-primary-500 hover:border-b-2 hover:border-b-primary-500
+    @apply font-semibold text-primary-500 border-b-2 border-b-primary-500 hover:border-b-2 hover:border-b-primary-500;
+    transition: border-bottom 0.3s ease-in-out;
+
 }
 
 .stone-background{

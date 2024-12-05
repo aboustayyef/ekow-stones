@@ -11,7 +11,7 @@
                 </div>
             </div>
         </div>
-        <div class="aspect-video lg:aspect-square bg-contain lg:bg-cover"  style="background-image: url('/storage/img/girl-near-wall.jpg');">
+        <div class="aspect-video lg:aspect-square bg-cover bg-no-repeat"  style="background-image: url('/storage/img/ekow-stones-external-walls.jpg');">
         </div>
          {{-- <img src="/storage/img/unsplash-kitchen-homepage.jpg" class="mt-6 lg:mt-0 rounded-3xl lg:rounded-none"> --}}
       </div>

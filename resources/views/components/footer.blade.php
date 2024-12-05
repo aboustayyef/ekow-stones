@@ -5,7 +5,6 @@
             <span class="text-primary-50 font-semibold">Ekow Stones @php echo date('Y') @endphp ®</span> <br/>
             Addr: Spintex Plaza, Spintex Rd<br/>
             Tel: +233(0)556549836
-
         </p>
     </div>
 </section>
