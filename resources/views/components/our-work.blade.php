@@ -24,7 +24,7 @@
         <div id="image-nav" class="-mt-6 flex space-x-4 justify-start items-center hidden">
             <!-- Placeholder for submenu (1 2 3) -->
         </div>
-        <div id="visible-slide" class="mt-4 w-full aspect-video bg-cover bg-center bg-no-repeat bg-primary-50" style="background-image: url('/storage/img/countertops.jpg');"></div>
+        <div id="visible-slide" class="mt-4 w-full aspect-video bg-cover bg-center bg-no-repeat bg-primary-50" style="background-image: url('/storage/img/counters-1.jpg');"></div>
     </div>
 </section>
 
