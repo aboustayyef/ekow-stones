@@ -21,7 +21,7 @@
             <div class="mt-6">
                 <div class="inline-flex px-4 py-2 border  items-center rounded-md">
                     <x-ui.location class="h-8 w-8 mr-4 -ml-4" />
-                    <h4 class="pl-4">Find us on Spintex Road in Spintex square building </h4>
+                    <h4 class="pl-4">Find us at Aflao Rd, Tema. Community 25</h4>
                 </div>
             </div>
         </div>
