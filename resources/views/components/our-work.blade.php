@@ -14,7 +14,7 @@
             <li class="selected"><a href="">Countertops</a></li>
             <li><a href="">Kitchens</a></li>
             <li><a href="">Walls</a></li>
-            <li><a href="">Washrooms</a></li>
+            {{-- <li><a href="">Washrooms</a></li> --}}
             <li><a href="">Basins</a></li>
         </ul>
     </div>
