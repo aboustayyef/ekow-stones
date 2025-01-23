@@ -27,10 +27,33 @@
    <meta name="twitter:title" content="{{ $meta_title }}">
    <meta name="twitter:description" content="{{ $meta_description }}">
    <meta name="twitter:image" content="{{ $meta_image }}">
-   <link rel="icon" href="/favicon.ico" type="image/x-icon">
-   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-   <link rel="icon" type="image/png" sizes="32x32" href="/icon_32x32.png">
-   <link rel="icon" type="image/png" sizes="16x16" href="/icon_16x16.png">
+
+   <!-- Favicon Links -->
+   <link rel="icon" href="/favicon-16x16.png" sizes="16x16" />
+   <link rel="icon" href="/favicon-32x32.png" sizes="32x32" />
+   <link rel="icon" href="/favicon-96x96.png" sizes="96x96" />
+   <link rel="icon" href="/favicon-144x144.png" sizes="144x144" />
+   <link rel="icon" href="/favicon-192x192.png" sizes="192x192" />
+   <link rel="icon" href="/favicon-310x310.png" sizes="310x310" />
+
+   <!-- Apple Touch Icons -->
+   <link rel="apple-touch-icon" href="/apple-icon-60x60.png" sizes="60x60" />
+   <link rel="apple-touch-icon" href="/apple-icon-76x76.png" sizes="76x76" />
+   <link rel="apple-touch-icon" href="/apple-icon-120x120.png" sizes="120x120" />
+   <link rel="apple-touch-icon" href="/apple-icon-152x152.png" sizes="152x152" />
+   <link rel="apple-touch-icon" href="/apple-icon-180x180.png" sizes="180x180" />
+
+   <!-- Android Icons -->
+   <link rel="icon" href="/android-icon-36x36.png" sizes="36x36" />
+   <link rel="icon" href="/android-icon-48x48.png" sizes="48x48" />
+   <link rel="icon" href="/android-icon-72x72.png" sizes="72x72" />
+   <link rel="icon" href="/android-icon-76x76.png" sizes="76x76" />
+   <link rel="icon" href="/android-icon-192x192.png" sizes="192x192" />
+
+   <!-- Windows Icons -->
+   <link rel="icon" href="/ms-icon-70x70.png" sizes="70x70" />
+   <link rel="icon" href="/ms-icon-150x150.png" sizes="150x150" />
+   <link rel="icon" href="/ms-icon-310x310.png" sizes="310x310" />
 </head>
 
 <body>
