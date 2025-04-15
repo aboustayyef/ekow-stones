@@ -12,11 +12,11 @@
 
         <!-- Text Content -->
         <div class="w-full featureList">
-            <h3>Expert Craftsmanship</h3>
+            <h3 class="feature-animate">Expert Craftsmanship</h3>
             <p>Our skilled artisans ensure every stone installation is meticulously crafted, with attention to detail that guarantees a flawless finish</p>
-            <h3>Unique Stone Selection</h3>
+            <h3 class="feature-animate">Unique Stone Selection</h3>
             <p>We source distinctive slabs from around the globe, offering an exclusive range of natural and engineered stones to match your unique style.</p>
-            <h3>Comprehensive Service</h3>
+            <h3 class="feature-animate">Comprehensive Service</h3>
             <p>From design consultation to installation and maintenance, we provide a full range of services to keep your stone surfaces looking perfect.</p>
         </div>
     </div>

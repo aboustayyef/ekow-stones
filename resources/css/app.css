@@ -2,5 +2,10 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
-@import "./_custom.css"
+@import "./_custom.css";
 
+/*
+    I put the file below in its own file because it's very big
+    and it's making all work slower
+*/
+@import "./_stone.css";
