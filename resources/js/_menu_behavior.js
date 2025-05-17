@@ -20,3 +20,8 @@ function closeMenu() {
 // Add event listeners to the buttons
 hamburgerButton.addEventListener('click', openMenu);
 closeButton.addEventListener('click', closeMenu);
+
+// when a link is clicked, close the menu
+document.querySelectorAll('ul#menu > li > a').forEach(link => {
+    link.addEventListener('click', closeMenu);
+});
