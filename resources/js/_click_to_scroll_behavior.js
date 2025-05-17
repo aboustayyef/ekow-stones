@@ -31,7 +31,9 @@ document.querySelectorAll('.contactUs').forEach(element => {
 document.querySelectorAll('.backToTop').forEach(element => {
     element.addEventListener('click', (event) => {
         event.preventDefault(); // Prevent default anchor behavior
-        document.querySelector('nav').scrollIntoView({
+        console.log('backToTop clicked');
+        window.scrollTo({
+            top: 0,
             behavior: 'smooth'
         });
     });

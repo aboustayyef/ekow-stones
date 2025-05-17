@@ -1,4 +1,4 @@
-<section class="mt-4" id="ourWorkSection">
+<section class="mt-4 pt-36"  id="ourWorkSection">
     <div class="flex justify-between items-center">
         <div>
             <h2 class="text-3xl lg:text-5xl text-primary-600 font-bold">Our Work</h2>
