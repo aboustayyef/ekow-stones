@@ -1,6 +1,6 @@
 <section class="bg-primary-600 lg:bg-inherit pt-0 lg:pt-y">
    <div class="px-0 lg:px-4">
-      <div class="flex flex-col-reverse lg:flex-row lg:h-[650px] overflow-hidden lg:rounded-3xl bg-primary-600 px-0 border border-gray-200">
+      <div class="flex flex-col-reverse lg:flex-row lg:h-[650px] overflow-hidden lg:rounded-3xl bg-primary-600 px-0 border lg:border-gray-200">
          <div class="flex flex-col flex-shrink-0 justify-around lg:w-[475px] bg-primary-600 px-4 lg:p-12">
             <div>
                 <h3 class="text-honey-200 text-xl lg:text-2xl max-w-prose mt-6 lg:mt-0">Transform exceptional stones into elegant surfaces that are as distinctive as you are</h3>
