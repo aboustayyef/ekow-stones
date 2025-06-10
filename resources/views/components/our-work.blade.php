@@ -9,7 +9,7 @@
 </section>
 <section class="py-0 border-b border-gray-400 ">
     <div>
-        <p class="text-primary-300 animate-pulse text-right">scroll for more >></p>
+        <p class="text-primary-300 animate-pulse text-right sm:invisible">scroll for more >></p>
         <ul id="ourWork" class="flex space-x-12 overflow-x-auto">
             <li class="selected"><a href="">Countertops</a></li>
             <li><a href="">Kitchens</a></li>
