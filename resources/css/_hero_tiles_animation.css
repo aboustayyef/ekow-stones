@@ -1,0 +1,69 @@
+.hero-tiles-graphic [id="Back Grid"],
+.hero-tiles-graphic [id^="Tile "] {
+    opacity: 0;
+}
+
+.hero-tiles-graphic [id^="Tile "] {
+    transform: translateY(10px) scale(0.985);
+    transform-box: fill-box;
+    transform-origin: center;
+}
+
+.hero-tiles-graphic.is-back-grid-visible [id="Back Grid"] {
+    animation: heroTilesGridFadeIn 1800ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.hero-tiles-graphic [id^="Tile "].is-visible {
+    animation: heroTileFadeIn 620ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.hero-tiles-graphic [id^="Tile "].is-removed {
+    animation: heroTileFadeOut 540ms cubic-bezier(0.55, 0, 0.75, 0) both;
+}
+
+@keyframes heroTilesGridFadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes heroTileFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px) scale(0.985);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+@keyframes heroTileFadeOut {
+    from {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+
+    to {
+        opacity: 0;
+        transform: translateY(-8px) scale(0.96);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .hero-tiles-graphic [id="Back Grid"],
+    .hero-tiles-graphic [id^="Tile "] {
+        animation: none !important;
+        opacity: 1 !important;
+        transform: none !important;
+    }
+
+    .hero-tiles-graphic [id^="Tile "].is-removed {
+        opacity: 0 !important;
+    }
+}

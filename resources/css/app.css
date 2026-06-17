@@ -3,6 +3,7 @@
 @import 'tailwindcss/utilities';
 
 @import "./_custom.css";
+@import "./_hero_tiles_animation.css";
 
 /*
     I put the file below in its own file because it's very big
