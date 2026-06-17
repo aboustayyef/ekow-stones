@@ -1,0 +1,427 @@
+<svg width="5304" height="3924" viewBox="0 0 5304 3924" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Hero-Graphic" clip-path="url(#clip0_3381_171)">
+<rect width="5304" height="3924" fill="#2D4F37"/>
+<g id="Building">
+<path id="roof third floor" d="M196.031 3057.03L2478.37 69.9492L6051.72 1474.09L1743.92 3159.04L196.031 3057.03Z" fill="white"/>
+<path id="Wall" d="M6050.18 3477.48L2541.72 3657.43V4368.39L6050.18 4549.99V3477.48Z" fill="#C2D8C5"/>
+<path id="Rectangle 24" d="M2532.43 3197.36L6063.33 2348.49V3298.73L2532.43 3654.69V3197.36Z" fill="#4B7E57"/>
+<g id="Building_2">
+<path id="roof second floor" opacity="0.61" d="M6050.83 2257.18L1741.6 3443.44L198.496 3358.99L2541.35 1255.57L6050.83 2257.18Z" fill="#F2F7F3"/>
+<path id="Vector" d="M309.765 3555.6L164 3551.61L2478.37 1657.73V1944.1L309.765 3555.6Z" fill="#C1CC97"/>
+<path id="Vector_2" opacity="0.4" d="M309.77 3555.6V3678.67L2478.37 2816.13V1944.1L309.77 3555.6Z" fill="#C2D8C5"/>
+<path id="back wall basement" d="M309.152 4392.13V3804.03L2534.63 3649.27V4365.63L309.152 4392.13Z" fill="#C1CC97"/>
+<path id="front pane 3rd floor" opacity="0.5" d="M2541.71 -113V1352.5L6069 2307L6051.72 1269.81L2541.71 -113Z" fill="#4B7E57"/>
+<path id="Vector_3" d="M193.529 3013.78L2541.35 -113V1351.5L164 3418.67L164 3391.59L2478.37 1223.74V69.9489L196.031 3057.03L193.529 3013.78Z" fill="#4B7E57"/>
+<path id="Vector_4" d="M339.266 3051.65L347.652 3237.77L2478.37 1223.74V511.258L339.266 3051.65Z" fill="#C1CC97"/>
+<path id="side panel lip" d="M164 3515.12L2560.08 1495.17L2573.97 2891.71L164 3766.12V3741.35L2478.37 2816.13V1657.74L164 3551.62V3515.12Z" fill="#4B7E57"/>
+<path id="front pane 2nd floor" opacity="0.77" d="M2560.06 1495.17V2887.15L6052.38 3313.98V2358.77L2560.06 1495.17Z" fill="#6C9B76"/>
+<path id="Vector_5" d="M2541.34 3172.34L6034.71 3469.74V3509.21L2541.34 3262.67V3172.34Z" fill="#C1CC97"/>
+</g>
+<path id="roof basement" d="M299.984 3813.03L2542.49 3260.82L6033.93 3494.51L2510.76 3663.97L299.984 3813.03Z" fill="#98BD9E"/>
+<path id="Vector_6" d="M250.465 3816.41L2541.36 3172.34V3262.67L250.465 3833.44V3816.41Z" fill="white"/>
+<g id="columns">
+<path id="Vector_7" d="M1944.45 4657.12L1839.18 4642.05V3452.72L1944.45 3427.96V4657.12Z" fill="#25402C"/>
+<path id="Vector_8" d="M1697.12 3488.32L1797.1 3464.33V4635.43L1697.12 4621.73L1697.12 3488.32Z" fill="#25402C"/>
+<path id="Vector_9" d="M1555.07 3523.14L1649.76 3499.92V4613.74L1555.07 4601.41V3523.14Z" fill="#25402C"/>
+<path id="Vector_10" d="M1413.01 3557.96L1502.4 3537.07L1502.4 4592.04L1413.01 4581.09L1413.01 3557.96Z" fill="#25402C"/>
+<path id="Vector_11" d="M1270.95 3591.23L1355.04 3570.34V4570.34L1270.95 4560.76L1270.95 3591.23Z" fill="#25402C"/>
+<path id="Vector_12" d="M1128.9 3626.05L1207.69 3605.93V4548.65L1128.9 4540.43V3626.05Z" fill="#25402C"/>
+<path id="Vector_13" d="M986.844 3660.1L1060.34 3643.08V4526.96L986.844 4520.1V3660.1Z" fill="#25402C"/>
+<path id="Vector_14" d="M844.773 3693.37L912.988 3677.9V4505.27L844.773 4499.78L844.773 3693.37Z" fill="#25402C"/>
+<path id="Vector_15" d="M702.719 3728.97L765.633 3713.49V4483.57L702.719 4479.45V3728.97Z" fill="#25402C"/>
+<path id="Vector_16" d="M561.908 3763.02L618.288 3749.09V4461.88L560.664 4459.14L561.908 3763.02Z" fill="#25402C"/>
+<path id="Vector_17" d="M418.602 3796.29L470.925 3785.46V4440.19L418.602 4438.81V3796.29Z" fill="#25402C"/>
+<path id="Vector_18" d="M323.583 3819.5L276.551 3831.11V4418.49H323.583V3819.5Z" fill="#25402C"/>
+</g>
+</g>
+<g id="Cladding and Tiles">
+<g id="Back Grid">
+<g id="Horizontal Bars">
+<mask id="mask0_3381_171" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="2729" y="12" width="2089" height="3380">
+<path id="Mask" d="M2729 12H4818V3392L2729 3285.5V12Z" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_3381_171)">
+<path id="Rectangle 51" d="M12412.5 3994.31L2667 485.797V448.427L12412.5 3994.31Z" stroke="#F2F7F3" stroke-width="2"/>
+<path id="Rectangle 52" d="M12444 4021.97L2667 807.275V767.887L12444 4021.97Z" stroke="#F2F7F3" stroke-width="2"/>
+<path id="Rectangle 53" d="M12429.5 4033.87L2667 1126.25V1088.35L12429.5 4033.87Z" stroke="#F2F7F3" stroke-width="2"/>
+<path id="Rectangle 54" d="M12424 4065.5L2667 1757.21V1720.27L12424 4065.5Z" stroke="#F2F7F3" stroke-width="2"/>
+<path id="Rectangle 55" d="M12420.5 4081.49L2667 2073.68V2037.23L12420.5 4081.49Z" stroke="#F2F7F3" stroke-width="2"/>
+<path id="Rectangle 56" d="M12430.4 4100.07L2667 2391.16V2354.19L12430.4 4100.07Z" stroke="#F2F7F3" stroke-width="2"/>
+<path id="Rectangle 57" d="M12446.3 4118.88L2667 2708.13V2670.16L12446.3 4118.88Z" stroke="#F2F7F3" stroke-width="2"/>
+</g>
+</g>
+<g id="Vertical Bars">
+<mask id="mask1_3381_171" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="2670" y="225" width="3180" height="3013">
+<path id="Mask_2" d="M2670 225.5L2706.5 2828L5850 3237.18V1440.07L2670 225.5Z" fill="#A8A8A8"/>
+</mask>
+<g mask="url(#mask1_3381_171)">
+<path id="1" d="M2809.5 110.026V2990.5H2772.5V95.6895L2809.5 110.026Z" stroke="#F2F7F3" stroke-width="3"/>
+<path id="8" d="M3119.5 1407V1632.5" stroke="#C2D8C5" stroke-width="3"/>
+<path id="7" d="M3082.5 1623.5V1396.5" stroke="#C2D8C5" stroke-width="3"/>
+<rect id="2" opacity="0.9" x="3082.5" y="211.5" width="37" height="2851" stroke="#F2F7F3" stroke-width="3"/>
+<rect id="3" opacity="0.8" x="3392.5" y="306.5" width="37" height="2684" stroke="#F2F7F3" stroke-width="3"/>
+<rect id="4" opacity="0.7" x="3692.5" y="382.5" width="37" height="2641" stroke="#F2F7F3" stroke-width="3"/>
+<path id="5" opacity="0.5" d="M4009.5 382.5V3078.99L3972.5 3051.04V382.5H4009.5Z" stroke="#F2F7F3" stroke-width="3"/>
+<path id="9" opacity="0.5" d="M4289.5 382.5V3078.99L4252.5 3051.04V382.5H4289.5Z" stroke="#F2F7F3" stroke-width="3"/>
+</g>
+</g>
+</g>
+<g id="Tiles">
+<g id="Tile 7e">
+<path id="Shadow" d="M4251.5 1056.86L4250.5 1294.32L4011.5 1214.65L4010.5 970.224L4251.5 1056.86Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 105" d="M4253.5 1049.04L4315.5 1006.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 92" d="M4011.5 1214.04L4083 1169" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 83" d="M4252 1294L4313.5 1245.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 106" d="M4011 969L4081 921.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="4064.5" y="901" width="268.5" height="363"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_1_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front" data-figma-bg-blur-radius="19" d="M4083.5 920L4314 1005.5V1245L4083.5 1167.5V920Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side" d="M4313.5 1245.5L4083.5 1168.5V919" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 7d">
+<path id="Shadow_2" d="M3971.5 956.324L3970.5 1199.78L3731.5 1120.11L3730.5 870.681L3971.5 956.324Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 105_2" d="M3973.5 954.5L4046.5 907.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 92_2" d="M3731.5 1119.5L3813.5 1077.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 83_2" d="M3973.5 1200.5L4046 1156" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 106_2" d="M3733 866.5L3812.5 825.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3793.5" y="803.5" width="271" height="371.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_2_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_2" data-figma-bg-blur-radius="19" d="M3812.5 822.5L4045.5 908V1156L3812.5 1075.5V822.5Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_2" d="M4046.5 1156.5L3813 1077V824" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 7c">
+<path id="Shadow_3" d="M3692 855.354V1108.8L3432 1020.15V761.715L3692 855.354Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 105_3" d="M3694 856.008L3778 811.508" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 92_3" d="M3429.5 1021.53L3526.5 978.029" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 83_3" d="M3691 1107.53L3775 1061.53" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 106_3" d="M3430.5 761.004L3525 721.004" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3505.5" y="699.004" width="290.5" height="384.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_3_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_3" data-figma-bg-blur-radius="19" d="M3524.5 718.004L3777 810.504V1064.5L3524.5 981.004V718.004Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_3" d="M3779 1064.5L3525.5 977.504V718.004" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 7b">
+<path id="Line 111" d="M3121 919.5L3230.5 879" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 107" d="M3394 748.5L3490 706" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 115" d="M3121 651.891L3230.5 611.391" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 109" d="M3392.5 1008.02L3487.5 967.023" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Shadow_4" d="M3395 749.849V1009.3L3122 918.635V652.704L3395 749.849Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<foreignObject x="3209.5" y="588.996" width="299.5" height="394"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_4_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_4" data-figma-bg-blur-radius="19" d="M3228.5 607.996L3490 706.996V963.996L3228.5 878.496V607.996Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_4" d="M3490 967.496L3229.5 878.496V608.996" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 7a">
+<path id="Line 110" d="M3082.5 637.5L3191 597" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Rectangle 73" d="M3081.5 637.354V905.312L2813.5 815.148V537.727L3081.5 637.354Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 71" d="M2812.5 814.5L2929 776" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 74" d="M3084 905.996L3190 863.996" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 108" d="M2812.5 538.008L2928 499.508" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="2908.5" y="479.504" width="301" height="406.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_5_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Rectangle 74" data-figma-bg-blur-radius="19" d="M2927.5 498.504L3190.5 596.004V867.004L2927.5 777.504V498.504Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Rectangle 92" d="M3191.5 866.004L2928.5 777.504V498.504" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 6e">
+<path id="Shadow_5" d="M4250.5 1320.85V1564.82L4010.5 1492.12V1241.69L4250.5 1320.85Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 110_2" d="M4252 1315L4316 1279.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 71_2" d="M4010.5 1492L4083 1447.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 74_2" d="M4251 1567.5L4313.5 1520.49" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 108_2" d="M4005 1238.5L4083.5 1203.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="4063" y="1183.5" width="270.5" height="353.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_6_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_5" data-figma-bg-blur-radius="19" d="M4082 1202.5L4314.5 1279V1518L4082 1446V1202.5Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_5" d="M4315.5 1519.98L4083.5 1450V1202.5" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 6d">
+<path id="Shadow_6" d="M3972 1236.36V1481.82L3731 1408.62V1158.18L3972 1236.36Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 110_3" d="M3976 1233L4048 1190" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 71_3" d="M3731 1409.5L3812 1364.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 74_3" d="M3972.5 1482L4046 1436.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 108_3" d="M3723.5 1152.07L3817 1110.57" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3798" y="1090.57" width="268.5" height="367.426"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_7_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_6" data-figma-bg-blur-radius="19" d="M3817 1109.57L4047.5 1189V1439L3817 1368.07V1109.57Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_6" d="M4046.5 1438L3812.5 1365.5V1110.5" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 6c">
+<path id="Shadow_7" d="M3692.5 1145.86V1397.82L3430.5 1317.62V1059.69L3692.5 1145.86Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 110_4" d="M3692 1140.5L3779 1099.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 71_4" d="M3430.5 1317.99L3523 1275.49" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 74_4" d="M3694 1398L3775.5 1354" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 108_4" d="M3430.5 1059L3524 1017.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3505" y="997.496" width="291" height="375.004"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_8_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_7" data-figma-bg-blur-radius="19" d="M3524 1016.5L3777 1098.5V1353.5L3524 1275V1016.5Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_7" d="M3776 1353L3524.5 1275.5V1016" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 6b">
+<path id="Shadow_8" d="M3390.5 1044.36V1305.33L3120 1223.63V956.188L3390.5 1044.36Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 110_5" d="M3390.5 1032.53L3499 992.527" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 71_5" d="M3120 1218.02L3236 1180.52" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 74_5" d="M3393 1305.5L3488 1265" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 108_5" d="M3120 955L3225.5 916.998" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3207" y="896" width="300" height="386"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_9_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_8" data-figma-bg-blur-radius="19" d="M3226 915L3488 1002.5V1263L3226 1184.5V915Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_8" d="M3489.5 1264.5L3226.5 1183.5V914.5" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 6a">
+<path id="Shadow_9" d="M3082.5 946.203L3081.5 1211.98L2812 1130.63V856.695L3082.5 946.203Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 110_6" d="M3082.5 943.504L3191 903.504" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 71_6" d="M2812 1129L2928 1091.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 74_6" d="M3084 1212.5L3188.5 1173.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 108_6" d="M2812 856.648L2927.5 818.148" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="2909.5" y="799.5" width="300" height="392.141"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_10_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_9" data-figma-bg-blur-radius="19" d="M2928.5 818.5L3190.5 905.5V1172.64L2928.5 1092.14V818.5Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_9" d="M3190.5 1173.64L2928.5 1093V818" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 5e">
+<path id="Rectangle 71" d="M4252 1599.87V1827.35L4011.5 1763.61V1527.78L4252 1599.87Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 78" d="M4254 1600.29L4314 1550" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 75" d="M4011 1527.11L4082.5 1482" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 76" d="M4011 1764L4082.5 1728" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 77" d="M4252.5 1828.5L4315 1791.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="4063" y="1461.5" width="270" height="347.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_11_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Rectangle 75" data-figma-bg-blur-radius="19" d="M4082 1480.5L4314 1550V1790L4082 1726V1480.5Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Rectangle 95" d="M4314 1789.5L4082.5 1726.5V1481" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 5d">
+<path id="Rectangle 71_2" d="M3971 1515.37V1753.35L3730 1688.12V1443.67L3971 1515.37Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 78_2" d="M3978.5 1516.18L4046 1470.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 75_2" d="M3730.5 1443L3813.5 1401" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 76_2" d="M3731 1688.5L3814 1652" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 77_2" d="M3972 1752.5L4045 1717.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3793" y="1379" width="272" height="357.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_12_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Rectangle 75_2" data-figma-bg-blur-radius="19" d="M3812 1398L4045.5 1469.5L4046 1717.5L3812 1652V1398Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Rectangle 95_2" d="M4046 1716.5L3813 1652.5V1398.5" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 5c">
+<path id="Rectangle 71_3" d="M3691 1432.08V1678.35L3431.5 1608.12V1354.67L3691 1432.08Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 78_3" d="M3689.5 1431.21L3778 1388" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 75_3" d="M3431 1353.5L3524.5 1313.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 76_3" d="M3433 1609L3525 1571.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 77_3" d="M3692 1677.5L3777 1643" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3506" y="1292.5" width="290" height="369.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_13_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Rectangle 75_3" data-figma-bg-blur-radius="19" d="M3525 1311.5L3777 1388V1643L3525 1574.5V1311.5Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Rectangle 95_3" d="M3777.5 1643L3524 1572.5V1311.5" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 5b">
+<path id="Rectangle 71_4" d="M3389.5 1341.94L3391.49 1605.91L3121.5 1534.18L3120.5 1261.73L3389.5 1341.94Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 78_4" d="M3388 1341.06L3496 1299.06" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 75_4" d="M3119.5 1261.5L3226 1222" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 76_4" d="M3120.5 1534.5L3226 1493" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 77_4" d="M3392.5 1607L3489.5 1564" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3208" y="1203.56" width="299" height="377.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_14_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Rectangle 75_4" data-figma-bg-blur-radius="19" d="M3228 1222.56L3488 1300.56V1562.06L3227 1492.06L3228 1222.56Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Rectangle 95_4" d="M3489 1565L3225.5 1491L3227 1221.56" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 5a">
+<path id="Rectangle 71_5" d="M3081.5 1251.9V1515.87L2811.5 1444.14V1171.69L3081.5 1251.9Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 78_5" d="M3083 1251.03L3191 1209.02" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 75_5" d="M2812 1171.52L2928.5 1133.52" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 76_5" d="M2811.5 1445.02L2930.5 1407.52" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 77_5" d="M3084 1517.79L3188 1481.29" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="2911" y="1113.52" width="298" height="386.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_15_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Rectangle 75_5" data-figma-bg-blur-radius="19" d="M2930 1132.52L3190 1209.52V1481.02L2930 1410.02V1132.52Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Rectangle 95_5" d="M3191.5 1483.02L2928 1409.02V1129.52" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 4e">
+<path id="Shadow_10" d="M4251.5 1852.36V2100.84L4011.5 2042.58V1788.13L4251.5 1852.36Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 79" d="M4251 2100.98L4314 2055" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 73" d="M4241.5 1854.83L4315.5 1821.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 82" d="M4009 2041.98L4082.5 1998" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 83_4" d="M4013.5 1787.49L4082 1758" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="4064" y="1740" width="269.5" height="333.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_16_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_10" data-figma-bg-blur-radius="19" d="M4083 1759L4314.5 1822V2054.5L4083 1998.5V1759Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_10" d="M4315 2054.5L4083 1997.5V1757.5" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 4d">
+<path id="Shadow_11" d="M3972 1784.87V2033.35L3732 1975.09V1720.64L3972 1784.87Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 79_2" d="M3971.5 2033.49L4044.5 1988.99" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 73_2" d="M3962 1787.34L4047.5 1748.34" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 82_2" d="M3729.5 1974.49L3811.5 1932.49" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 83_5" d="M3734 1720L3810.5 1687" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3794" y="1667.99" width="271.5" height="339"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_17_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_11" data-figma-bg-blur-radius="19" d="M3813 1686.99L4046.5 1748.59V1987.99L3813 1931.99V1686.99Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_11" d="M4046 1988.99L3811.5 1931.99V1685.49" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 4c">
+<path id="Line 79_3" d="M3692 1964.62L3773.5 1922.04" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 73_3" d="M3693 1714.35L3778.5 1675.35" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 82_3" d="M3430 1903.37L3526.5 1862.87" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Shadow_12" d="M3692 1714.49V1966.47L3430.51 1902.99L3434.49 1647.75L3692 1714.49Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<foreignObject x="3506" y="1588.61" width="290.5" height="353.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_18_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_12" data-figma-bg-blur-radius="19" d="M3525 1607.61L3777.5 1675.61V1923.11L3525 1862.61V1607.61Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_12" d="M3776.5 1922.11L3525 1863.61V1607.61" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 4b">
+<path id="Line 81" d="M3393 1637.32L3486.5 1597.31" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Rectangle 72" d="M3392.5 1636.49V1892.47L3122.5 1827.21V1566.25L3392.5 1636.49Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 112" d="M3121 1828.33L3227.5 1785.32" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 113" d="M3124 1564.8L3227.5 1529.3" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 114" d="M3392 1892.33L3488 1853.34" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3207.5" y="1507.61" width="302" height="366"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_19_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Rectangle 76" data-figma-bg-blur-radius="19" d="M3226.5 1526.61L3488 1597.11L3490.5 1854.61L3226.5 1789.61V1526.61Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Rectangle 103" d="M3489 1854.61L3227 1787.11V1526.11" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 4a">
+<path id="Rectangle 72_2" d="M3082.5 1562.29V1818.26L2812.5 1753V1492.04L3082.5 1562.29Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 81_2" d="M3083 1563.11L3176.5 1523.1" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 112_2" d="M2811 1754.12L2927.5 1717.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 113_2" d="M2813.5 1492.5L2928.5 1447.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 114_2" d="M3082 1818.12L3189 1781" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="2911" y="1428" width="297.5" height="371.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_20_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Rectangle 76_2" data-figma-bg-blur-radius="19" d="M2930 1447L3189.5 1517V1780.5L2930 1717.5V1447Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Rectangle 103_2" d="M3190 1781L2929 1717V1447" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 3e">
+<path id="bl-line" d="M4010 2318.5L4078 2275.62" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="tr-line" d="M4253.5 2131.5L4314 2086.49" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="tl-line" d="M4010 2074.5L4082.5 2031.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="br-line" d="M4251.5 2367.5L4313 2325.12" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Shadow_13" d="M4251 2132.52V2368.51L4009.5 2318.22V2074.75L4251 2132.52Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<foreignObject x="4061.5" y="2013.5" width="270" height="330.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_21_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_13" data-figma-bg-blur-radius="19" d="M4083 2032.5L4312.5 2086.5V2325L4080.5 2273L4083 2032.5Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_13" d="M4314 2324.5L4082 2274.62V2030.5" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 3d">
+<path id="bl-line_2" d="M3731.5 2258L3811 2216.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="tr-line_2" d="M3956 2056.99L4044 2021.49" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="tl-line_2" d="M3728 2009.6L3812.5 1968" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="br-line_2" d="M3968.5 2311L4046 2267" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Shadow_14" d="M3972 2065.41V2309.39L3730.5 2260.1V2010.63L3972 2065.41Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<foreignObject x="3794" y="1946.01" width="270.5" height="341"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_22_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_14" data-figma-bg-blur-radius="19" d="M3813 1965.01L4045.5 2020.51V2268.01L3813 2218.51V1965.01Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_14" d="M4046 2266.5L3813 2215.51V1965.5" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 3c">
+<path id="bl-line_3" d="M3431 2195.5L3524 2156.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="tr-line_3" d="M3689 1992L3777 1956.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="tl-line_3" d="M3431.5 1939L3524 1897.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="br-line_3" d="M3693.5 2251L3776.5 2210.01" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Shadow_15" d="M3690.02 1998.47L3692.01 2250.91L3430.52 2196.66V1940.2L3690.02 1998.47Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<foreignObject x="3505" y="1878.5" width="290" height="350.004"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_23_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_15" data-figma-bg-blur-radius="19" d="M3524 1897.5L3776 1956.51V2209.51L3524 2156.01V1897.5Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_15" d="M3777 2209.5L3524.5 2157V1896.5" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 3b">
+<path id="bl-line_4" d="M3121 2132L3226.5 2094" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="tr-line_4" d="M3383.5 1934.36L3493 1893.85" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="tl-line_4" d="M3121.5 1864.5L3227 1825.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="br-line_4" d="M3392.5 2188L3487 2148" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Shadow_16" d="M3390.5 1930.9V2187.39L3121 2131.59V1866.14L3390.5 1930.9Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<foreignObject x="3208.5" y="1807" width="298.5" height="360.496"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_24_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_16" data-figma-bg-blur-radius="19" d="M3227.5 1826L3488 1888.5V2148.5L3227.5 2094V1826Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_16" d="M3489.5 2148L3227.5 2094V1825.5" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 3a">
+<path id="bl-line_5" d="M2811.5 2066.91L2929.5 2026.9" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="tr-line_5" d="M3083.5 1857.39L3193 1816.89" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="tl-line_5" d="M2812.5 1792.4L2927 1757.4" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="br-line_5" d="M3082 2122.93L3187 2085.43" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Shadow_17" d="M3080 1855.5V2121.99L2813.5 2067.2V1794.23L3080 1855.5Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<foreignObject x="2910" y="1735.11" width="300.5" height="369"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_25_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_17" data-figma-bg-blur-radius="19" d="M2929 1754.11L3191.5 1817.61V2085.11L2929 2028.11V1754.11Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_17" d="M3190 2084.61L2928.5 2027.61V1753.61" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 2e">
+<path id="Shadow_18" d="M4251.5 2401.91V2636.91L4011 2593.58V2352.12L4251.5 2401.91Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="ur" d="M4255 2400.71L4315 2355" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="ul" d="M4011 2350.71L4083 2307.51" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="ll" d="M4011 2593.5L4082 2552" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="lr" d="M4253.5 2637.5L4315.5 2595.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="4064" y="2288" width="270" height="324"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_26_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_18" data-figma-bg-blur-radius="19" d="M4083 2307L4315 2354.5V2593L4084 2552L4083 2307Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_18" d="M4316 2594.5L4083 2551V2306.5" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 2d">
+<path id="Shadow_19" d="M3970 2343.41V2585.4L3732.5 2542.58V2294.11L3970 2343.41Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="ur_2" d="M3973.5 2342L4045.5 2299" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="ul_2" d="M3729.5 2292L3812 2250.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="ll_2" d="M3731 2543L3812.5 2502" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="lr_2" d="M3973.5 2587.5L4046 2544.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3794.5" y="2231.5" width="270.5" height="330.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_27_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_19" data-figma-bg-blur-radius="19" d="M3813.5 2250.5L4046 2299V2543L3813.5 2501.5V2250.5Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_19" d="M4046 2544.5L3813.5 2502.5V2249.5" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 2c">
+<path id="Shadow_20" d="M3691.5 2288.4V2536.4L3431 2490.08V2231.12L3691.5 2288.4Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="ur_3" d="M3693.5 2286.5L3777 2243" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="ul_3" d="M3431 2231L3523.5 2190.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="ll_3" d="M3430 2490L3524 2450" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="lr_3" d="M3693.5 2537L3777.5 2496.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3506" y="2172.5" width="288.5" height="342"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_28_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_20" data-figma-bg-blur-radius="19" d="M3525 2191.5L3775.5 2243V2495.5L3525 2450V2191.5Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_20" d="M3776.5 2496L3525 2450V2191" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 2b">
+<path id="Shadow_21" d="M3392 2221.41V2483.9L3120.5 2435.08V2167.61L3392 2221.41Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="ur_4" d="M3382.5 2221.41L3490 2182.4" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="ul_4" d="M3121 2167L3228.5 2131" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="ll_4" d="M3121 2434.5L3228.5 2398" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="lr_4" d="M3393 2484L3486 2446.43" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3208" y="2110.48" width="299.5" height="351.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_29_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_21" data-figma-bg-blur-radius="19" d="M3227 2129.48L3488.5 2183.98V2442.98L3227 2395.98V2129.48Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_21" d="M3487.5 2445.48L3228 2397.48V2129.99" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 2a">
+<path id="Shadow_22" d="M3080.5 2159.51V2424.5L2811.5 2376.18V2103.22L3080.5 2159.51Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="ur_5" d="M3084.5 2160.93L3192 2121.92" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="ul_5" d="M2811.5 2104.91L2931 2069.41" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="ll_5" d="M2813 2374.6L2935 2336.93" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="lr_5" d="M3081 2422.84L3188 2385.94" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="2910" y="2047.6" width="299.5" height="360"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_30_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_22" data-figma-bg-blur-radius="19" d="M2929 2066.6L3190.5 2121.6V2388.6L2929 2342.1V2066.6Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_22" d="M3191.5 2387.6L2930 2340.1V2066.6" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 1e">
+<path id="Shadow_23" d="M4252.5 2669.93V2904.42L4011.5 2867.5V2626.61L4252.5 2669.93Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 95" d="M4010 2867.91L4084 2826.99" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 99" d="M4255 2903.9L4314 2861.99" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 101" d="M4253 2663.5L4316.5 2624" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 102" d="M4011 2626.5L4085.5 2588" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="4064" y="2563.02" width="269.5" height="316.496"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_31_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_23" data-figma-bg-blur-radius="19" d="M4083 2582.02L4314.5 2624.53V2860.52L4083 2826.02V2582.02Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_23" d="M4317 2861.51L4084 2827.01V2583.52" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 1d">
+<path id="Shadow_24" d="M3977.49 2618.94L3972.01 2861.43L3732 2826.59V2580.11L3977.49 2618.94Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 95_2" d="M3730.5 2827.02L3814 2785.01" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 99_2" d="M3975.5 2863.01L4047.5 2824.01" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 101_2" d="M3975.5 2615.5L4045 2580.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 102_2" d="M3732 2578.52L3815.5 2539.02" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3794" y="2516.02" width="271" height="325.988"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_32_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Front_24" data-figma-bg-blur-radius="19" d="M3813 2535.02L4046 2577.02V2823.01L3813 2786.02V2535.02Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Side_24" d="M4045 2817.51L3815 2783.52V2536.52" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 1c">
+<path id="Rectangle 80" d="M3692 2567.55V2820.55L3430.5 2781.7V2523.22L3692 2567.55Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 95_3" d="M3432 2782.97L3530 2741.97" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 99_3" d="M3694.5 2821.48L3774.5 2777.98" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 101_3" d="M3692 2571.99L3779.5 2526.98" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 102_3" d="M3430 2525.91L3528 2488.96" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3506.5" y="2465.6" width="290" height="334.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_33_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="Rectangle 90" data-figma-bg-blur-radius="19" d="M3525.5 2484.6L3777.5 2528.1V2781.1L3525.5 2741.1V2484.6Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="Rectangle 100" d="M3777.5 2779.1L3526.5 2742.1V2485.6" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 1b">
+<path id="shadow" d="M3391 2517.02V2776.52L3122.5 2736.17V2469.2L3391 2517.02Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 103" d="M3391 2515.91L3493 2478.96" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 96" d="M3121 2737.13L3231 2695.45" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="br-line_6" d="M3391 2776.91L3484 2737.46" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="tl-line_6" d="M3122 2470.88L3229.5 2434.95" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="3208.5" y="2413.6" width="300.5" height="340.5"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_34_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="front" data-figma-bg-blur-radius="19" d="M3227.5 2432.6L3490 2477.1V2735.1L3227.5 2698.6V2432.6Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="side" d="M3489 2736.1L3228 2696.6V2431.6" stroke="white" stroke-width="9"/>
+</g>
+<g id="Tile 1a">
+<path id="shadow_2" d="M3080 2467.42V2729.92L2812 2690.07V2418.1L3080 2467.42Z" fill="#4B7E57" fill-opacity="0.6" stroke="#4B7E57"/>
+<path id="Line 103_2" d="M3083 2463.75L3185 2426.8" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="Line 96_2" d="M2811.5 2690.5L2927.5 2655.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="br-line_7" d="M3082.5 2730.5L3189.5 2693.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<path id="tl-line_7" d="M2810.5 2416.5L2928.5 2381" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="4 4"/>
+<foreignObject x="2910" y="2361.5" width="299" height="350.496"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(9.5px);clip-path:url(#bgblur_35_3381_171_clip_path);height:100%;width:100%"></div></foreignObject><path id="front_2" data-figma-bg-blur-radius="19" d="M2929 2380.5L3190 2426V2692.99L2929 2653.99V2380.5Z" fill="#F2F7F3" fill-opacity="0.4"/>
+<path id="side_2" d="M3190.5 2694L2928 2655V2379" stroke="white" stroke-width="9"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="bgblur_1_3381_171_clip_path" transform="translate(-4064.5 -901)"><path d="M4083.5 920L4314 1005.5V1245L4083.5 1167.5V920Z"/>
+</clipPath><clipPath id="bgblur_2_3381_171_clip_path" transform="translate(-3793.5 -803.5)"><path d="M3812.5 822.5L4045.5 908V1156L3812.5 1075.5V822.5Z"/>
+</clipPath><clipPath id="bgblur_3_3381_171_clip_path" transform="translate(-3505.5 -699.004)"><path d="M3524.5 718.004L3777 810.504V1064.5L3524.5 981.004V718.004Z"/>
+</clipPath><clipPath id="bgblur_4_3381_171_clip_path" transform="translate(-3209.5 -588.996)"><path d="M3228.5 607.996L3490 706.996V963.996L3228.5 878.496V607.996Z"/>
+</clipPath><clipPath id="bgblur_5_3381_171_clip_path" transform="translate(-2908.5 -479.504)"><path d="M2927.5 498.504L3190.5 596.004V867.004L2927.5 777.504V498.504Z"/>
+</clipPath><clipPath id="bgblur_6_3381_171_clip_path" transform="translate(-4063 -1183.5)"><path d="M4082 1202.5L4314.5 1279V1518L4082 1446V1202.5Z"/>
+</clipPath><clipPath id="bgblur_7_3381_171_clip_path" transform="translate(-3798 -1090.57)"><path d="M3817 1109.57L4047.5 1189V1439L3817 1368.07V1109.57Z"/>
+</clipPath><clipPath id="bgblur_8_3381_171_clip_path" transform="translate(-3505 -997.496)"><path d="M3524 1016.5L3777 1098.5V1353.5L3524 1275V1016.5Z"/>
+</clipPath><clipPath id="bgblur_9_3381_171_clip_path" transform="translate(-3207 -896)"><path d="M3226 915L3488 1002.5V1263L3226 1184.5V915Z"/>
+</clipPath><clipPath id="bgblur_10_3381_171_clip_path" transform="translate(-2909.5 -799.5)"><path d="M2928.5 818.5L3190.5 905.5V1172.64L2928.5 1092.14V818.5Z"/>
+</clipPath><clipPath id="bgblur_11_3381_171_clip_path" transform="translate(-4063 -1461.5)"><path d="M4082 1480.5L4314 1550V1790L4082 1726V1480.5Z"/>
+</clipPath><clipPath id="bgblur_12_3381_171_clip_path" transform="translate(-3793 -1379)"><path d="M3812 1398L4045.5 1469.5L4046 1717.5L3812 1652V1398Z"/>
+</clipPath><clipPath id="bgblur_13_3381_171_clip_path" transform="translate(-3506 -1292.5)"><path d="M3525 1311.5L3777 1388V1643L3525 1574.5V1311.5Z"/>
+</clipPath><clipPath id="bgblur_14_3381_171_clip_path" transform="translate(-3208 -1203.56)"><path d="M3228 1222.56L3488 1300.56V1562.06L3227 1492.06L3228 1222.56Z"/>
+</clipPath><clipPath id="bgblur_15_3381_171_clip_path" transform="translate(-2911 -1113.52)"><path d="M2930 1132.52L3190 1209.52V1481.02L2930 1410.02V1132.52Z"/>
+</clipPath><clipPath id="bgblur_16_3381_171_clip_path" transform="translate(-4064 -1740)"><path d="M4083 1759L4314.5 1822V2054.5L4083 1998.5V1759Z"/>
+</clipPath><clipPath id="bgblur_17_3381_171_clip_path" transform="translate(-3794 -1667.99)"><path d="M3813 1686.99L4046.5 1748.59V1987.99L3813 1931.99V1686.99Z"/>
+</clipPath><clipPath id="bgblur_18_3381_171_clip_path" transform="translate(-3506 -1588.61)"><path d="M3525 1607.61L3777.5 1675.61V1923.11L3525 1862.61V1607.61Z"/>
+</clipPath><clipPath id="bgblur_19_3381_171_clip_path" transform="translate(-3207.5 -1507.61)"><path d="M3226.5 1526.61L3488 1597.11L3490.5 1854.61L3226.5 1789.61V1526.61Z"/>
+</clipPath><clipPath id="bgblur_20_3381_171_clip_path" transform="translate(-2911 -1428)"><path d="M2930 1447L3189.5 1517V1780.5L2930 1717.5V1447Z"/>
+</clipPath><clipPath id="bgblur_21_3381_171_clip_path" transform="translate(-4061.5 -2013.5)"><path d="M4083 2032.5L4312.5 2086.5V2325L4080.5 2273L4083 2032.5Z"/>
+</clipPath><clipPath id="bgblur_22_3381_171_clip_path" transform="translate(-3794 -1946.01)"><path d="M3813 1965.01L4045.5 2020.51V2268.01L3813 2218.51V1965.01Z"/>
+</clipPath><clipPath id="bgblur_23_3381_171_clip_path" transform="translate(-3505 -1878.5)"><path d="M3524 1897.5L3776 1956.51V2209.51L3524 2156.01V1897.5Z"/>
+</clipPath><clipPath id="bgblur_24_3381_171_clip_path" transform="translate(-3208.5 -1807)"><path d="M3227.5 1826L3488 1888.5V2148.5L3227.5 2094V1826Z"/>
+</clipPath><clipPath id="bgblur_25_3381_171_clip_path" transform="translate(-2910 -1735.11)"><path d="M2929 1754.11L3191.5 1817.61V2085.11L2929 2028.11V1754.11Z"/>
+</clipPath><clipPath id="bgblur_26_3381_171_clip_path" transform="translate(-4064 -2288)"><path d="M4083 2307L4315 2354.5V2593L4084 2552L4083 2307Z"/>
+</clipPath><clipPath id="bgblur_27_3381_171_clip_path" transform="translate(-3794.5 -2231.5)"><path d="M3813.5 2250.5L4046 2299V2543L3813.5 2501.5V2250.5Z"/>
+</clipPath><clipPath id="bgblur_28_3381_171_clip_path" transform="translate(-3506 -2172.5)"><path d="M3525 2191.5L3775.5 2243V2495.5L3525 2450V2191.5Z"/>
+</clipPath><clipPath id="bgblur_29_3381_171_clip_path" transform="translate(-3208 -2110.48)"><path d="M3227 2129.48L3488.5 2183.98V2442.98L3227 2395.98V2129.48Z"/>
+</clipPath><clipPath id="bgblur_30_3381_171_clip_path" transform="translate(-2910 -2047.6)"><path d="M2929 2066.6L3190.5 2121.6V2388.6L2929 2342.1V2066.6Z"/>
+</clipPath><clipPath id="bgblur_31_3381_171_clip_path" transform="translate(-4064 -2563.02)"><path d="M4083 2582.02L4314.5 2624.53V2860.52L4083 2826.02V2582.02Z"/>
+</clipPath><clipPath id="bgblur_32_3381_171_clip_path" transform="translate(-3794 -2516.02)"><path d="M3813 2535.02L4046 2577.02V2823.01L3813 2786.02V2535.02Z"/>
+</clipPath><clipPath id="bgblur_33_3381_171_clip_path" transform="translate(-3506.5 -2465.6)"><path d="M3525.5 2484.6L3777.5 2528.1V2781.1L3525.5 2741.1V2484.6Z"/>
+</clipPath><clipPath id="bgblur_34_3381_171_clip_path" transform="translate(-3208.5 -2413.6)"><path d="M3227.5 2432.6L3490 2477.1V2735.1L3227.5 2698.6V2432.6Z"/>
+</clipPath><clipPath id="bgblur_35_3381_171_clip_path" transform="translate(-2910 -2361.5)"><path d="M2929 2380.5L3190 2426V2692.99L2929 2653.99V2380.5Z"/>
+</clipPath><clipPath id="clip0_3381_171">
+<rect width="5304" height="3924" fill="white"/>
+</clipPath>
+</defs>
+</svg>

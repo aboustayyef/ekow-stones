@@ -6,6 +6,10 @@ section > div,
 nav > div {
     @apply w-full max-w-6xl mx-auto px-4 xl:px-0;
 }
+
+section.hero-full-bleed > div {
+    @apply max-w-none px-0;
+}
 #menu li {
     @apply text-lg uppercase font-semibold;
 }
