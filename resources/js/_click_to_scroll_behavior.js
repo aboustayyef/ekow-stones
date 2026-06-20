@@ -1,5 +1,5 @@
-// Scroll to the "ourWorkSection" when any element with the class "seeOurWork" is clicked
-document.querySelectorAll('.seeOurWork').forEach(element => {
+// Scroll to the "ourWorkSection" when any element with the class "js-scroll-work" is clicked
+document.querySelectorAll('.js-scroll-work').forEach(element => {
     element.addEventListener('click', (event) => {
         event.preventDefault(); // Prevent default anchor behavior
         document.getElementById('ourWorkSection').scrollIntoView({
@@ -8,8 +8,8 @@ document.querySelectorAll('.seeOurWork').forEach(element => {
     });
 });
 
-// Scroll to the "aboutUsSection" when any element with the class "seeOurWork" is clicked
-document.querySelectorAll('.learnAboutUs').forEach(element => {
+// Scroll to the "aboutUsSection" when any element with the class "js-scroll-about" is clicked
+document.querySelectorAll('.js-scroll-about').forEach(element => {
     element.addEventListener('click', (event) => {
         event.preventDefault(); // Prevent default anchor behavior
         document.getElementById('aboutUsSection').scrollIntoView({
@@ -17,8 +17,9 @@ document.querySelectorAll('.learnAboutUs').forEach(element => {
         });
     });
 });
-// Scroll to the "contactUsSection" when any element with the class "seeOurWork" is clicked
-document.querySelectorAll('.contactUs').forEach(element => {
+
+// Scroll to the "contactUsSection" when any element with the class "js-scroll-contact" is clicked
+document.querySelectorAll('.js-scroll-contact').forEach(element => {
     element.addEventListener('click', (event) => {
         event.preventDefault(); // Prevent default anchor behavior
         document.getElementById('contactUsSection').scrollIntoView({
@@ -27,11 +28,10 @@ document.querySelectorAll('.contactUs').forEach(element => {
     });
 });
 
-// Scroll back to the <nav> when any element with the class "backToTop" is clicked
-document.querySelectorAll('.backToTop').forEach(element => {
+// Scroll back to the <nav> when any element with the class "js-scroll-top" is clicked
+document.querySelectorAll('.js-scroll-top').forEach(element => {
     element.addEventListener('click', (event) => {
         event.preventDefault(); // Prevent default anchor behavior
-        console.log('backToTop clicked');
         window.scrollTo({
             top: 0,
             behavior: 'smooth'
